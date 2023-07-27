@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For Relay Model
+#######################################
+
+#######################################
+# Classes and Objects (KEYWORD1)
+#######################################
+
+BME34M101	KEYWORD1	 	//KEYWORD1（深橙色）—— 類
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin			KEYWORD2	//KEYWORD2（淺橙色）—— 函數
+isConnected		KEYWORD2	
+getNumber		KEYWORD2	
+getMoisture		KEYWORD2
+getTemperature		KEYWORD2	
+getAllMoisture		KEYWORD2	
+getAllTemperature	KEYWORD2	
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+##	LITERAL1		// LITERAL1 （ 藍色 ）—— 宏常量
+
+
