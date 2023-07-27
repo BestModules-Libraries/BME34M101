@@ -1,14 +1,14 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BME82M131_V1.0.png" width="320" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BME34M101_V1.0.png" width="480" height="240"> 
 </div> 
 
 
-BME82M131
+BME34M101
 ===========================================================
 
-The Best Modules BME82M131 is an ambient light detection module, which uses the I2C communication method. This document describes the Arduino Lib function of the BME82M131 and how to install the Arduino Lib. The example demonstrates how to obtain the ambient light intensity.
+The Best Modules BME34M101 is a soil moisture detection module, which uses the UART communication method. This document provides the description of the BME34M101 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of obtaining the module soil moisture detection value and temperature value.
 
-This library can be installed via the Arduino Library manager. Search for **BME82M131**. 
+This library can be installed via the Arduino Library manager. Search for **BME34M101**. 
 
 Repository Contents
 -------------------
@@ -21,7 +21,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BME82M131 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bme82m131.html#tab-product2 )** - Arduino Library Description.
+* **[BME34M101 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bme34m101.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
